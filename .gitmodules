@@ -9,3 +9,12 @@
 [submodule "mips-program-3-Eleninja102"]
 	path = mips-program-3-Eleninja102
 	url = git@github.com:Eleninja102/mips-program-3-Eleninja102.git
+[submodule "mips-program-4-Eleninja102"]
+	path = mips-program-4-Eleninja102
+	url = git@github.com:Eleninja102/mips-program-4-Eleninja102.git
+[submodule "mips-program-5-Eleninja102"]
+	path = mips-program-5-Eleninja102
+	url = git@github.com:Eleninja102/mips-program-5-Eleninja102.git
+[submodule "mips-program-6-Eleninja102"]
+	path = mips-program-6-Eleninja102
+	url = git@github.com:Eleninja102/mips-program-6-Eleninja102.git
