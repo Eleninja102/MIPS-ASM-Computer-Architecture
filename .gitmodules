@@ -16,3 +16,6 @@
 [submodule "mips-program-6-Eleninja102"]
 	path = mips-program-6-Eleninja102
 	url = git@github.com:Eleninja102/mips-program-6-Eleninja102.git
+[submodule "mips-program-1-Eleninja102"]
+	path = mips-program-1-Eleninja102
+	url = git@github.com:Eleninja102/mips-program-1-Eleninja102.git
