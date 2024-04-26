@@ -2,3 +2,6 @@
 	url = https://github.com/Eleninja102/mips-program-0-Eleninja102.git
 [submodule "mips-program-1-Eleninja102"]
 	url = https://github.com/Eleninja102/mips-program-1-Eleninja102
+[submodule "mips-program-2-Eleninja102"]
+	path = mips-program-2-Eleninja102
+	url = git@github.com:Eleninja102/mips-program-2-Eleninja102.git
